@@ -1,0 +1,6 @@
+2022-06-08 12:20:22 :: GetAllUENForCustomers :: Execution Timeout Expired.  The timeout period elapsed prior to completion of the operation or the server is not responding.
+2022-06-08 12:20:52 :: GetAllUENForCustomers :: Execution Timeout Expired.  The timeout period elapsed prior to completion of the operation or the server is not responding.
+2022-06-08 12:21:55 :: GetAllUENForCustomers :: Execution Timeout Expired.  The timeout period elapsed prior to completion of the operation or the server is not responding.
+2022-06-08 12:22:32 :: GetAllUENForCustomers :: Execution Timeout Expired.  The timeout period elapsed prior to completion of the operation or the server is not responding.
+2022-06-08 12:42:43 :: No records found for searchig customer code
+2022-06-08 12:43:11 :: No records found for searchig customer code
